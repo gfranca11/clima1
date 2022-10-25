@@ -22,7 +22,7 @@ PREVISAO DO TEMPO
  
  > Clone o repositório e de sua estrelinha ;]
    
-        $ git https://github.com/gfranca11/clima1
+        $ git  clone https://github.com/gfranca11/clima1
         $ cd clima1
         
  
